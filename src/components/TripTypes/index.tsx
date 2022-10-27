@@ -12,8 +12,8 @@ export function TripTypes(){
     ]
 
     return(
-        <Flex maxWidth={1480} h="72" alignItems="center" justifyContent="center" overflow="hidden">
-            <Flex h="64" w="80%" align="center" justify="space-around">
+        <Flex h={["3xs","xs","sm"]} alignItems="center" justifyContent="center" overflow="hidden">
+            <Flex w="80%" align="center" justify="space-around" flexWrap="wrap">
                 {tripTypes.map((value)=>(
                     <TripTypeItem name={value.name} src={value.src} key={value.name}/>
                 ))}

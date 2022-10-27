@@ -18,25 +18,25 @@ export function CallToAction() {
 
   return (
     <Flex
-      height="2xl"
+      height={["md","xl","2xl"]}
       align="center"
       justify="space-between"
       flexDir="column"
       maxWidth={1480} 
       w="100%"
     >
-      <Box h="2px" w="80px" bgColor="gray.50" />
+      <Box h={["1px","2px"]} w="80px" bgColor="gray.50" />
 
-      <Flex h="16" flexDir="column" align="center" mb="40px">
-        <Text fontWeight="500" color="gray.50" fontSize="4xl">
+      <Flex h={["9","12","16"]} flexDir="column" align="center" mb="40px">
+        <Text fontWeight="500" color="gray.50" fontSize={["xl","2xl","4xl"]}>
           Vamos nessa?
         </Text>
-        <Text fontWeight="500" color="gray.50" fontSize="4xl">
+        <Text fontWeight="500" color="gray.50" fontSize={["xl","2xl","4xl"]}>
           Então escolha seu continente
         </Text>
       </Flex>
 
-      <Flex h="md" w="90%" marginBottom="20px">
+      <Flex h={["xs","sm","md"]} w="90%" marginBottom="20px">
         <Swiper virtual
           modules={[Virtual, Navigation, Pagination, A11y]}
           spaceBetween={50}
@@ -44,8 +44,8 @@ export function CallToAction() {
           navigation
           pagination={{ clickable: true }}
           // scrollbar={{ draggable: true }}
-          onSwiper={(swiper) => console.log(swiper)}
-          onSlideChange={() => console.log('slide change')}
+          // onSwiper={(swiper) => console.log(swiper)}
+          // onSlideChange={() => console.log('slide change')}
         >
           {continents.map((slideContent, index) => (
             <SwiperSlide key={slideContent.name} virtualIndex={index}>

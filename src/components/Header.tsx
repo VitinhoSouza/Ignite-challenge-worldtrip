@@ -10,13 +10,13 @@ interface HeaderProps{
 export function Header({withBackButton = false}:HeaderProps){
 
     return(
-        <Flex maxW={1480} h="24" align="center" justify="center">
+        <Flex maxW={1480} h={["16","20","24"]} align="center" justify="center">
             {withBackButton && (
                 <Link href="/" style={{position:"absolute"}}>
-                    <ChevronLeftIcon position="relative" mr="980px" w={6} h={6} color="gray.50"/>
+                    <ChevronLeftIcon position="relative" mr={["15rem","25rem","35rem","45rem","55rem"]} w={6} h={6} color="gray.50"/>
                 </Link>
             )}
-            <Image src="logo.png"/>
+            <Image src="logo.png" width={["28","32","auto"]}/>
         </Flex>
     )
 } 
