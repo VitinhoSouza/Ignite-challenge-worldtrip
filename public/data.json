@@ -1,0 +1,146 @@
+[
+    {
+        "name":"América do Norte", "phrase":"Um continente com muitas belezas", "image":"america.jpg","id":"north-america",
+        "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+        "data": [
+            {"number":50,"title":"países"},{"number":60,"title":"línguas"},{"number":27,"title":"cidades +100"}
+        ],
+        "cities":[
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/montse-monmo-82806-unsplash-1024x595.jpg", 
+                "name":"Londres", "nameCountry":"Reino Unido", 
+                "flagCountry":"https://www.pngall.com/wp-content/uploads/2016/06/United-Kingdom-Flag-PNG-Image.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/chris-coudron-133542-unsplash-1024x683.jpg", 
+                "name":"Paris", "nameCountry":"França", 
+                "flagCountry":"https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/sarah-doffman-639546-unsplash-1024x576.jpg", 
+                "name":"Roma", "nameCountry":"Itália", 
+                "flagCountry":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1500px-Flag_of_Italy.svg.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/anthony-delanoix-575672-unsplash-1024x683.jpg", 
+                "name":"Praga", "nameCountry":"República Tcheca", 
+                "flagCountry":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/2560px-Flag_of_the_Czech_Republic.svg.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/ramida-made-1356094-unsplash-1024x683.jpg", 
+                "name":"Amsterdã", "nameCountry":"Holanda", 
+                "flagCountry":"https://wiki2.railml.org/images/thumb/3/38/Dutch_flag.png/320px-Dutch_flag.png"}
+        ]
+    },
+    {
+        "name":"América do Sul", "phrase":"O continente mais pluralizado do mundo", "image":"southamerica.jpg", "id":"south-america",
+        "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+        "data": [
+            {"number":50,"title":"países"},{"number":60,"title":"línguas"},{"number":27,"title":"cidades +100"}
+        ],
+        "cities":[
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/montse-monmo-82806-unsplash-1024x595.jpg", 
+                "name":"Londres", "nameCountry":"Reino Unido", 
+                "flagCountry":"https://www.pngall.com/wp-content/uploads/2016/06/United-Kingdom-Flag-PNG-Image.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/chris-coudron-133542-unsplash-1024x683.jpg", 
+                "name":"Paris", "nameCountry":"França", 
+                "flagCountry":"https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/sarah-doffman-639546-unsplash-1024x576.jpg", 
+                "name":"Roma", "nameCountry":"Itália", 
+                "flagCountry":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1500px-Flag_of_Italy.svg.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/anthony-delanoix-575672-unsplash-1024x683.jpg", 
+                "name":"Praga", "nameCountry":"República Tcheca", 
+                "flagCountry":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/2560px-Flag_of_the_Czech_Republic.svg.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/ramida-made-1356094-unsplash-1024x683.jpg", 
+                "name":"Amsterdã", "nameCountry":"Holanda", 
+                "flagCountry":"https://wiki2.railml.org/images/thumb/3/38/Dutch_flag.png/320px-Dutch_flag.png"}
+        ]
+    },
+    {
+        "name":"Ásia", "phrase":"O continente mais populoso do mundo", "image":"asia.jpg", "id":"asia",
+        "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+        "data": [
+            {"number":50,"title":"países"},{"number":60,"title":"línguas"},{"number":27,"title":"cidades +100"}
+        ],
+        "cities":[
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/montse-monmo-82806-unsplash-1024x595.jpg", 
+                "name":"Londres", "nameCountry":"Reino Unido", 
+                "flagCountry":"https://www.pngall.com/wp-content/uploads/2016/06/United-Kingdom-Flag-PNG-Image.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/chris-coudron-133542-unsplash-1024x683.jpg", 
+                "name":"Paris", "nameCountry":"França", 
+                "flagCountry":"https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/sarah-doffman-639546-unsplash-1024x576.jpg", 
+                "name":"Roma", "nameCountry":"Itália", 
+                "flagCountry":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1500px-Flag_of_Italy.svg.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/anthony-delanoix-575672-unsplash-1024x683.jpg", 
+                "name":"Praga", "nameCountry":"República Tcheca", 
+                "flagCountry":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/2560px-Flag_of_the_Czech_Republic.svg.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/ramida-made-1356094-unsplash-1024x683.jpg", 
+                "name":"Amsterdã", "nameCountry":"Holanda", 
+                "flagCountry":"https://wiki2.railml.org/images/thumb/3/38/Dutch_flag.png/320px-Dutch_flag.png"}
+        ]
+    },
+    {
+        "name":"África", "phrase":"O continente com um incrível safari", "image":"africa.jpg", "id":"africa",
+        "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+        "data": [
+            {"number":50,"title":"países"},{"number":60,"title":"línguas"},{"number":27,"title":"cidades +100"}
+        ],
+        "cities":[
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/montse-monmo-82806-unsplash-1024x595.jpg", 
+                "name":"Londres", "nameCountry":"Reino Unido", 
+                "flagCountry":"https://www.pngall.com/wp-content/uploads/2016/06/United-Kingdom-Flag-PNG-Image.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/chris-coudron-133542-unsplash-1024x683.jpg", 
+                "name":"Paris", "nameCountry":"França", 
+                "flagCountry":"https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/sarah-doffman-639546-unsplash-1024x576.jpg", 
+                "name":"Roma", "nameCountry":"Itália", 
+                "flagCountry":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1500px-Flag_of_Italy.svg.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/anthony-delanoix-575672-unsplash-1024x683.jpg", 
+                "name":"Praga", "nameCountry":"República Tcheca", 
+                "flagCountry":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/2560px-Flag_of_the_Czech_Republic.svg.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/ramida-made-1356094-unsplash-1024x683.jpg", 
+                "name":"Amsterdã", "nameCountry":"Holanda", 
+                "flagCountry":"https://wiki2.railml.org/images/thumb/3/38/Dutch_flag.png/320px-Dutch_flag.png"}
+        ]
+    },
+    {
+        "name":"Europa", "phrase":"O continente mais antigo do mundo", "image":"europe.png", "id":"europe",
+        "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+        "data": [
+            {"number":50,"title":"países"},{"number":60,"title":"línguas"},{"number":27,"title":"cidades +100"}
+        ],
+        "cities":[
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/montse-monmo-82806-unsplash-1024x595.jpg", 
+                "name":"Londres", "nameCountry":"Reino Unido", 
+                "flagCountry":"https://www.pngall.com/wp-content/uploads/2016/06/United-Kingdom-Flag-PNG-Image.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/chris-coudron-133542-unsplash-1024x683.jpg", 
+                "name":"Paris", "nameCountry":"França", 
+                "flagCountry":"https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/sarah-doffman-639546-unsplash-1024x576.jpg", 
+                "name":"Roma", "nameCountry":"Itália", 
+                "flagCountry":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1500px-Flag_of_Italy.svg.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/anthony-delanoix-575672-unsplash-1024x683.jpg", 
+                "name":"Praga", "nameCountry":"República Tcheca", 
+                "flagCountry":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/2560px-Flag_of_the_Czech_Republic.svg.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/ramida-made-1356094-unsplash-1024x683.jpg", 
+                "name":"Amsterdã", "nameCountry":"Holanda", 
+                "flagCountry":"https://wiki2.railml.org/images/thumb/3/38/Dutch_flag.png/320px-Dutch_flag.png"}
+        ]
+    },
+    {
+        "name":"Oceania",  "phrase":"O continente muita tranquilidade", "image":"oceania.jpg", "id":"oceania",
+        "description": "A Europa é, por convenção, um dos seis continentes do mundo. Compreendendo a península ocidental da Eurásia, a Europa geralmente divide-se da Ásia a leste pela divisória de águas dos montes Urais, o rio Ural, o mar Cáspio, o Cáucaso, e o mar Negro a sudeste.",
+        "data": [
+            {"number":50,"title":"países"},{"number":60,"title":"línguas"},{"number":27,"title":"cidades +100"}
+        ],
+        "cities":[
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/montse-monmo-82806-unsplash-1024x595.jpg", 
+                "name":"Londres", "nameCountry":"Reino Unido", 
+                "flagCountry":"https://www.pngall.com/wp-content/uploads/2016/06/United-Kingdom-Flag-PNG-Image.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/chris-coudron-133542-unsplash-1024x683.jpg", 
+                "name":"Paris", "nameCountry":"França", 
+                "flagCountry":"https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/sarah-doffman-639546-unsplash-1024x576.jpg", 
+                "name":"Roma", "nameCountry":"Itália", 
+                "flagCountry":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/1500px-Flag_of_Italy.svg.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/anthony-delanoix-575672-unsplash-1024x683.jpg", 
+                "name":"Praga", "nameCountry":"República Tcheca", 
+                "flagCountry":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/2560px-Flag_of_the_Czech_Republic.svg.png"},
+            {"image":"https://bigseventravel.com/wp-content/uploads/2019/03/ramida-made-1356094-unsplash-1024x683.jpg", 
+                "name":"Amsterdã", "nameCountry":"Holanda", 
+                "flagCountry":"https://wiki2.railml.org/images/thumb/3/38/Dutch_flag.png/320px-Dutch_flag.png"}
+        ]
+    }  
+]
